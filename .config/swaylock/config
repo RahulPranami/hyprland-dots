@@ -1,0 +1,83 @@
+image=~/Pictures/catalina-night.jpg
+# font-size=16
+# color=2b2e37
+# key-hl-color=4E9A06
+# line-color=73C48F
+# layout-bg-color=2b2e37
+# ring-color=2b2e37
+# ring-ver-color=2b2e37
+# inside-wrong-color=F15D22
+# inside-ver-color=2b2e37
+# inside-color=2b2e37
+# show-keyboard-layout
+# indicator-idle-visible
+# indicator-radius=120
+# text-color=eeeeee
+daemonize
+ignore-empty-password
+show-failed-attempts
+# clock
+# effect-blur=5x5
+#color=1f1d2e80
+# font="Inter"
+# indicator-idle-visible=false
+# indicator-radius=200
+# indicator-thickness=20
+# line-color=1f1d2e
+# ring-color=191724
+# inside-color=1f1d2e
+# key-hl-color=eb6f92
+# separator-color=00000000
+# text-color=e0def4
+# text-caps-lock-color=""
+# line-ver-color=eb6f92
+# ring-ver-color=eb6f92
+# inside-ver-color=1f1d2e
+# text-ver-color=e0def4
+# ring-wrong-color=31748f
+# text-wrong-color=31748f
+# inside-wrong-color=1f1d2e
+# inside-clear-color=1f1d2e
+# text-clear-color=e0def4
+# ring-clear-color=9ccfd8
+# line-clear-color=1f1d2e
+# line-wrong-color=1f1d2e
+# bs-hl-color=31748f
+# grace=2
+# grace-no-mouse
+# grace-no-touch
+# datestr="%d.%m"
+#fade-in="0.1"
+
+
+## some placeholders
+
+#indicator-thickness=7px
+#indicator-radius=100px
+#indicator-x-position=100px
+#indicator-y-position=100px
+#inside-color=#00000000
+#inside-clear-color=#00000000
+#inside-ver-color=#ffffff
+#inside-wrong-color=#fafafa
+#key-hl-color=#00000000
+#layout-bg-color=
+#layout-border-color=
+#layout-text-color=
+#line-color=#00000000
+#line-caps-color=#00000000
+#line-ver-color=#00000000
+#line-wrong-color=#00000000
+#line-uses-ring
+#ring-color=#ffffff
+#ring-clear-color=#ffffff
+#ring-caps-lock-color=#ffffff
+#ring-wrong-color=#ffffff
+#ring-ver-color=#ffffff
+#separator-color=#00000000
+#text-color=
+#text-ver-color=
+#text-wrong-color=
+#text-caps-lock-color=
+#text-clear-color=
+#no-unlock-indicator
